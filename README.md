@@ -21,7 +21,7 @@ Feel free to explore the directories and contribute.
 
 ![Excel](https://img.shields.io/badge/MariaDB-0D1117?style=for-the-badge&logo=MariaDB&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
-![R]((https://img.shields.io/badge/R-14354C?style=for-the-badge&logo=R&logoColor=white))&nbsp; 
+![R](https://img.shields.io/badge/R-14354C?style=for-the-badge&logo=R&logoColor=white)&nbsp; 
 
 
 ### Tools:
@@ -33,4 +33,4 @@ Feel free to explore the directories and contribute.
   
 ### Studying in this moment:
 ![Python](https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=Python&logoColor=white)&nbsp;
-![R]((https://img.shields.io/badge/R-14354C?style=for-the-badge&logo=R&logoColor=white))&nbsp; 
+![R](https://img.shields.io/badge/R-14354C?style=for-the-badge&logo=R&logoColor=white)&nbsp; 
